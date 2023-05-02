@@ -3,7 +3,7 @@
 
 - 🧑‍🎓 Student at the Federal Institute of Sergipe
 - 📚 Studying Information Systems
-- 🧑‍💻 Future Back-end Developer
+- 🧑‍💻 Back-end Developer
 
 <div style="display: inline">
   <a href="https://github.com/MarcusFurtuoso">
