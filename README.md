@@ -99,7 +99,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcusFurtuoso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusFurtuoso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusFurtuoso&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&title_color=9450f3&color=9450f3&point=9450f3&area_color=9450f3&line=9450f3" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+<h3 align="left">📈  Graph :</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusFurtuoso&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&title_color=9450f3&color=9450f3&point=9450f3&area_color=9450f3&line=9450f3" height="300" alt="activity-graph graph"  />
+</div>
