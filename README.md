@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 👨‍🎓 Student at the Federal Institute of Sergipe<br>- 📚 Studying Information Systems<br>- 👨‍💻 Full Stack Developer</p>
+<p align="left">- 👨‍🎓 Bachelor at Information Systems in the Federal Institute of Sergipe <br>- 👨‍💻 Full Stack Developer</p>
 
 ###
 
